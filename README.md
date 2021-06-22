@@ -2,7 +2,7 @@
 Shows you how many days there is until Christmas
 
 ## Installation
-> npm i gody-days-unti-christmas
+> npm i gody-days-until-christmas
 
 ## Example
 ```javascript
